@@ -1,5 +1,5 @@
 # Marine-Species-Characterization
-Characterization and visualization of classes of marine species from iOBIS in specific regions
+The [Ocean Biogeographic Information System](http://iobis.org) (OBIS) provides the global database of marine biological observations and measurements linked with environmental data. This analysis uses the geographic areas (exclusive economic zones) summarized by OBIS and the OBIS Application Programming Interface. This provisional Biogeographic Analysis Package summarizes the most reported species within each exclusive economic zone observed and reported to the OBIS. The numbers reported are actual presence observations, meaning the absence records are excluded from the summary. Species were compiled by scientific name and aggregated by the class level of the taxonomic hierarchy for summarization purposes.
 
 # USGS Provisional Software
 
