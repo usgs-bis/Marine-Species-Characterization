@@ -13,12 +13,19 @@ All data for this analysis are served via the OBIS API. The data are summarized 
 
 # Literature Cited
 Ausubel, J.H. (1999) Toward a census of marine life. Oceanography 12(3):4-5.
+
 Asch, R.G.; Erisman, B. (2018). Spawning aggregations act as a bottleneck influencing climate change impacts on a critically   endangered reef fish. Diversity Distrib. Online first. https://hdl.handle.net/10.1111/ddi.12809
+
 Bosch, S.; Tyberghein, L.; Deneudt, K.; Hernandez, F.; De Clerck, O. (2018). In search of relevant predictors for marine species distribution modelling using the MarineSPEED benchmark dataset. Diversity Distrib. 24(2): 144-157. https://hdl.handle.net/10.1111/ddi.12668
+
 Chaudhary, C.; Saeedi, H.; Costello, M.J. (2017). Marine species richness is bimodal with latitude: A reply to Fernandez and Marques. Trends Ecol. Evol. 32(4): 234–237. https://hdl.handle.net/10.1016/j.tree.2017.02.007
+
 Dornelas, M.; Gotelli, N.J.; McGill, B.; Shimadzu, H.; Moyes, F.; Sievers, C.; Magurran, A.E. (2014). Assemblage time series reveal biodiversity change but not systematic loss. Science (Wash.) 344(6181): 296-299. http://hdl.handle.net/10.1126/science.1248484
+
 Panasiuk, A.; Jazdzewska, A.; Slomska, A.; Irzycka, M. (2018). Genetic identity of two physonect siphonophores from Southern Ocean  waters – the enigmatic taxon Mica micula and Pyrostephos vanhoeffeni. J. Mar. Biol. Ass. U.K. Early view: 1-8. https://hdl.handle.net/10.1017/s0025315418000218
+
 Rees, T.; Vandepitte, L.; Decock, W.; Vanhoorne, B. (2017). IRMNG 2006–2016: 10 years of a global taxonomic database. Biodiversity Informatics 12: 1-44. https://hdl.handle.net/10.17161/bi.v12i0.6522
+
 Tittensor, D.P.; Mora, C.; Jetz, W.; Lotze, H.K.; Ricard, D.; Vanden Berghe, E.; Worm, B. (2010). Global patterns and predictors of marine biodiversity across taxa. Nature (Lond.) 466(7310): 1098-1101. https://hdl.handle.net/10.1038/nature09329
 
 # USGS Provisional Software
