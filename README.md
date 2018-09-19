@@ -18,7 +18,7 @@ Asch, R.G.; Erisman, B. (2018). Spawning aggregations act as a bottleneck influe
 
 Bosch, S.; Tyberghein, L.; Deneudt, K.; Hernandez, F.; De Clerck, O. (2018). In search of relevant predictors for marine species distribution modelling using the MarineSPEED benchmark dataset. Diversity Distrib. 24(2): 144-157. https://hdl.handle.net/10.1111/ddi.12668
 
-Chaudhary, C.; Saeedi, H.; Costello, M.J. (2017). Marine species richness is bimodal with latitude: A reply to Fernandez and Marques. Trends Ecol. Evol. 32(4): 234–237. https://hdl.handle.net/10.1016/j.tree.2017.02.007
+Chaudhary, C.; Saeedi, H.; Costello, M.J. (2016). Bimodality of latitudinal gradients in marine species richness. Trends Ecol. Evol. 31(9): 670-676. hdl.handle.net/10.1016/j.tree.2016.06.001
 
 Dornelas, M.; Gotelli, N.J.; McGill, B.; Shimadzu, H.; Moyes, F.; Sievers, C.; Magurran, A.E. (2014). Assemblage time series reveal biodiversity change but not systematic loss. Science (Wash.) 344(6181): 296-299. http://hdl.handle.net/10.1126/science.1248484
 
