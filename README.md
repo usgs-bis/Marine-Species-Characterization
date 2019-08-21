@@ -9,7 +9,7 @@ Stakeholders for the type of information in this analysis include researchers, d
 
 
 # Inputs
-All data for this analysis are served via the OBIS API. The data are summarized by OBIS to exclusive economic zones as defined by OBIS and are therefore considered OBIS Areas. OBIS Area species can be found at http://api.iobis.org/v3/area. Then the summarized data for each of these areas can be found at the OBIS API for that area such as http://api.iobis.org/v3/statistics/composition/class?areaid=267.
+All data for this analysis are served via the OBIS API. The data are summarized by OBIS to exclusive economic zones as defined by OBIS and are therefore considered OBIS Areas. OBIS Area species can be found at http://api.obis.org/v3/area. Then the summarized data for each of these areas can be found at the OBIS API for that area such as http://api.obis.org/v3/statistics/composition/class?areaid=267.
 
 # Literature Cited
 Ausubel, J.H. (1999) Toward a census of marine life. Oceanography 12(3):4-5.
