@@ -6,7 +6,7 @@ library(tidyverse)
 library(dplyr)
 
 # First need to pull in the US EEZ area ids
-USAreaIdsquery <- "http://api.iobis.org/v3/area"
+USAreaIdsquery <- "http://api.obis.org/v3/area"
 OBISAreas <- fromJSON(USAreaIdsquery)
 USAreasIDs <- ifelse(OBISAreas$results$country == "United States", paste(OBISAreas$results$id), NA)
 USAreasIDs <- USAreasIDs[!is.na(USAreasIDs)]
@@ -21,7 +21,7 @@ USAreasIDs$name <- "" #How to bring in name?
 # Next need to build the queries for those particular OBIS Area IDs
 USAreasIDs$query <- ""
 for (i in 1:nrow(USAreasIDs)){
-  USAreasIDs[i,]$query <- paste0("http://api.iobis.org/v3/statistics/composition/class?areaid=", USAreasIDs[i,]$USAreasIDs)
+  USAreasIDs[i,]$query <- paste0("http://api.obis.org/v3/statistics/composition/class?areaid=", USAreasIDs[i,]$USAreasIDs)
 }
 
 # Then need to grab the data for those ids and create the figure
