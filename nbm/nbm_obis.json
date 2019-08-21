@@ -5,7 +5,7 @@
     {
       "title": "Observation By Class For OBIS Area",
       "type": "obis",
-      "endpoint": "https://api.iobis.org/v3/statistics/composition/class?areaid="
+      "endpoint": "https://api.obis.org/v3/statistics/composition/class?areaid="
     }
   ]
 }
